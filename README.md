@@ -1,0 +1,1 @@
+Recently I started learning the Flask microframework and at the same time writing my own project (that’s what it is). I’ll commit here until the series of articles I’m learning from ends, then I’ll probably start a new project
